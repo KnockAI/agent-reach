@@ -52,6 +52,7 @@ dev = [
 [project.scripts]
 agent-reach = "agent_reach.cli:main"
 agent-reach-knock = "agent_reach.knock_export:main"
+agent-reach-knock-collect = "agent_reach.knock_collect_cli:main"
 
 [project.urls]
 Homepage = "https://github.com/Panniantong/agent-reach"
